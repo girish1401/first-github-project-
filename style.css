@@ -623,3 +623,10 @@ li{
     margin: 16px 0px 0px;
     color: #7c8ba1;
 }
+.faq__box--h1{
+    font-size: 16px;
+    color: #2d3784 ;
+}
+.faq__box--p{
+    font-size: 12px;
+}
