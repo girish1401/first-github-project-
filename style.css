@@ -623,11 +623,7 @@ li{
     margin: 15px 0px 0px;
     padding: 10px 10px;
 }
-
-.faq__boxes{
-   
-    
-}
+ 
 .faq__p{
     font-size: 18px;
     margin: 16px 0px 0px;
@@ -715,4 +711,23 @@ li{
 }
 .container__h1{
     font-size: 18px;
+}
+
+
+.last__img{
+    height: 40px;
+    width: 40px;
+    background-color: white;
+}
+
+.last__1{
+    display: flex;
+    align-items: start;
+}
+.last{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
 }
